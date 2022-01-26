@@ -1,0 +1,29 @@
+.Swuttons{
+    position: fixed;
+    bottom: 10vh;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.Swuttons .MuiIconButton-root{
+    background-color: white;
+    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+}
+
+.swipebuttons__close{
+    padding: 3vw !important;
+    color: brown !important;
+}
+.swipebuttons__repeat{
+    padding: 3vw !important;
+    color: cadetblue !important;
+}
+.swipebuttons__star{
+    padding: 3vw !important;
+    color:gold !important;
+}
+.swipebuttons__fav{
+    padding: 3vw !important;
+    color:tomato !important;
+}
